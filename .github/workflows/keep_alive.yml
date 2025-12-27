@@ -1,4 +1,4 @@
-name: ClawCloud 自动登录保活 (Node.js)
+name: ClawCloud 自动登录保活
 
 on:
   schedule:
